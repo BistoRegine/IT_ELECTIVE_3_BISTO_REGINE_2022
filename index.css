@@ -1,0 +1,35 @@
+body{
+    font-family: inherit;
+    background-color: mediumaquamarine;
+    color:#2f2f2f;
+    font-size: 1em;
+    font-weight: normal;
+
+}
+.wrapper {
+    border: 1px solid #999 !important;
+    border-radius: 5px;
+    color:#222 !important;
+    padding:10px !important;
+    background: #ddd!important;
+
+}
+p{
+    color: rgb(70, 57, 33);
+}
+a[href]{
+    color: red;
+}
+h1{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.5em;
+    text-align: center;
+    outline-color: burlywood;
+    outline-style: double;
+}
+div{
+    outline-color: rgb(190, 135, 135);
+    outline-style: inset;
+}
+
